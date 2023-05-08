@@ -17,17 +17,17 @@ There are 5 datasets :
 
 ## Analytical Insights
 
-### Point Plot
+### Bar Plot #1
 
-<img width="936" alt="image" src="https://user-images.githubusercontent.com/20051049/236485733-c72bd621-8096-4831-b614-42b97728ccca.png">
+![image](https://user-images.githubusercontent.com/20051049/236945112-124a6ad5-ada1-405b-ae91-8b47cd060f39.png)
 
-This pointplot shows that the points scored and the assists accumulated do not have a significant impact on winning. There s however a direct impact on the point scored and the assists. The more assists you obtain, the higher the points.
+This Barchart shows that the Charlotte Hornets average the least amount of points as the home team and the Houston Rockets average the most. Most teams average between 100-120 points.
 
-### Scatter Plot
+### Bar Plot #2
 
-<img width="956" alt="image" src="https://user-images.githubusercontent.com/20051049/236485425-119db7ee-9c01-4d45-bcd0-d3b24be43ecd.png">
+![image](https://user-images.githubusercontent.com/20051049/236945549-2379d9d8-971a-4bb2-8334-03dbdf5ada1e.png)
 
-This scatter plot shows the lower you can keep your opponents field goal percentage and points, the greater your chances of winning. It has a moderate positive correlation.
+This Barchart shows that the Phoenix Suns average the least amount of points as the away team and the Utah Jazz average the most.
 
 ## Best Model
 ### Classification Report
