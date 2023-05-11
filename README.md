@@ -19,15 +19,21 @@ There are 5 datasets :
 
 ### Bar Plot #1
 
-![image](https://user-images.githubusercontent.com/20051049/236945112-124a6ad5-ada1-405b-ae91-8b47cd060f39.png)
+<img width="855" alt="image" src="https://github.com/jaytrey777/NBA-Home-Team-Wins/assets/20051049/5b087acd-9b63-4fd9-8732-e8514371fff0">
 
-This Barchart shows that the Charlotte Hornets average the least amount of points as the home team and the Houston Rockets average the most. Most teams average between 100-120 points.
+This Barchart shows the top 10 teams with the highest scoring average at home. The Houston Rockets average the most points at home at around 140. They would be a tough opponent to face on their home court.
 
 ### Bar Plot #2
 
-![image](https://user-images.githubusercontent.com/20051049/236945549-2379d9d8-971a-4bb2-8334-03dbdf5ada1e.png)
+<img width="799" alt="image" src="https://github.com/jaytrey777/NBA-Home-Team-Wins/assets/20051049/0a9f0d48-4111-44c8-9fc1-eb867d3871c1">
 
-This Barchart shows that the Phoenix Suns average the least amount of points as the away team and the Utah Jazz average the most.
+This Barchart shows the top 10 teams with the highest scoring average away from home. The Utah Jazz average the most points on the road around 125. They would be a tough opponent to face on the road.
+
+### Bar Plot #3
+
+<img width="951" alt="image" src="https://github.com/jaytrey777/NBA-Home-Team-Wins/assets/20051049/67cb91fa-9819-4bc8-99a8-f3fed12ecb43">
+
+This bar plot shows the top 10 teams that have the highest point differential scoring at home vs away. The Indiana Pacers have a scoring differential of almost 40 point at home. They are lot better at home team than they are on the road.
 
 ## Best Model
 ### Classification Report
